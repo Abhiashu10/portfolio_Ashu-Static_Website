@@ -1,0 +1,99 @@
+baseURL: "https://ashutoshsingh.com"
+languageCode: en-us
+title: Ashutosh Singh
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 20
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: /blog
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.arkalim.org
+    #   weight: 70
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Ashutosh Singh"
+    subtitle: "A data scientist with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. I have six years of professional experience working in the **finance**, **healthcare**, and **insurance** sectors as a **Business Data Analyst** at **Xerox Business Services** and **Senior Analytics Consultant** at **NTT DATA**. I am skilled in a variety of data science techniques and is passionate about using my skills to make a positive impact on the world. "
+    imageUrl: "home/SAS.jpg"
+    imageWidth: 300
+    imageHeight: 300  
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:singh.ashut@northeastern.edu"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ashutoshkumarsingh1009/"
+    - name: "github"
+      url: "https://github.com/Abhiashu10"
+    - name: "Resume"
+      url: "https://drive.google.com/file/d/1p-44gaIX5W9qSHQafHq0RsnAgY9z-fEY/view?usp=sharing"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
