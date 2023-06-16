@@ -1,7 +1,7 @@
 ## ASHUTOSH
 
 <div align="center">
-    <img src="/about/SA3.jpg" alt="Example Image" width="500" height="500">
+    <img src="/about/SA3.jpg" alt="Example Image" width="500" height="600">
 </div>
 
 # About Ashutosh
