@@ -13,6 +13,10 @@ menu:
       name: About
       url: /about
       weight: 15
+    - identifier: Ashu
+      name: Ashu
+      url: /ashu
+      weight: 17
     - identifier: projects
       name: Projects
       url: /projects
