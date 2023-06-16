@@ -15,9 +15,15 @@ cover:
 
 The analysis looks at the business strategy, corporate objectives, market research, and whether these things have been reflected in Delta's balance sheet. I’d also like to discuss about company strategy for Investing in technology and innovation to expand their business is something. We will talk about artificial intelligence and data science in the context of Delta Airlines' business model. This study primarily focused on examining Delta Airlines from a business and financial standpoint to see whether it is wise to invest in such businesses. I combed through a lot of information on business models for companies and managerial choices, trying to keep management choices, market research, and balance sheet in sync. I have examined the business using both fundamental and technical analysis, which will enable me to better comprehend its future. I obtained the majority of the data, financial information, and references for this research directly from the company website; thus I hereby certify that all the material in this report is true and accurate. This paper was prepared for academic purposes only, and no financial decisions should be made based on it.
 
-The first airline business to provide its customers a commercial and agricultural flying service was Delta. The phrase "postal service," which is used to deliver mail and provide cargo services, was first used by Delta Airlines. The Delta airline had 572 destinations in close to 65 countries in 2012. North America, South America, Europe, Asia, Africa, and Australia were among these nations. Based on 5,766 regularly scheduled flights, Delta Airlines operated almost 714 aircraft. There are many parameters which needs to be considered for a company analysis but below are the three parameters must be considered while analyzing a company:                   **1. Economy Analysis**                                                 **2. Industry Analysis**                                                    **3. Company Analysis** 
+The first airline business to provide its customers a commercial and agricultural flying service was Delta. The phrase "postal service," which is used to deliver mail and provide cargo services, was first used by Delta Airlines. The Delta airline had 572 destinations in close to 65 countries in 2012. North America, South America, Europe, Asia, Africa, and Australia were among these nations. Based on 5,766 regularly scheduled flights, Delta Airlines operated almost 714 aircraft. There are many parameters which needs to be considered for a company analysis but below are the three parameters must be considered while analyzing a company: 
 
-Let's look at some another important factor that must be considered for our analysis:                                                                   **1.CAGR (Compounded Annual Growth Rate)**: CAGR requires that we look at a few things: -
+**1. Economy Analysis**
+**2. Industry Analysis**
+**3. Company Analysis**
+
+Let's look at some another important factor that must be considered for our analysis:                                                                                                 
+
+**1.CAGR (Compounded Annual Growth Rate)**: CAGR requires that we look at a few things: -
 - top line, such as sales, 
 - bottom line, such as profit, 
 - or it could be EBITDA.
