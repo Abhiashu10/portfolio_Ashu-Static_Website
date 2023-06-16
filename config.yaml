@@ -50,10 +50,10 @@ params:
   profileMode:
     enabled: true
     title: "Ashutosh Singh"
-    subtitle: "A data enthusiast with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. I have a strong passion for Machine Learning, Deep Learning, and Natural Language Processing (NLP). I am dedicated to combining my domain expertise in finance, healthcare, and insurance with data science to effectively communicate insights through data-driven narratives. Prior to enrolling in the MS program, I gained valuable experience as a Senior Analytics Consultant at NTT DATA and as a Business Data Analyst at Xerox Business Services, both renowned Fortune 100 companies based in the United States. I derive fulfillment from volunteering for environmental issues and promoting individual welfare. Additionally, I enjoy sports and reading about pharmaceuticals, health, and finance."
+    subtitle: "A data enthusiast with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. I have a strong passion for **Artificial Intelligence**, **Cloud** and **Business Analytics**. I am dedicated to combining my domain expertise in **finance**, **healthcare**, and **insurance** with data science to effectively communicate insights through data-driven narratives. Prior to enrolling in the MS program, I gained valuable experience as a **Analytics Consultant** at **NTT DATA** and as a **Business Data Analyst** at **Xerox Business Services**, both renowned Fortune 500 companies based in the United States. I derive fulfillment from volunteering for environmental issues and promoting individual welfare.
     imageUrl: "home/SAS.jpg"
-    imageWidth: 350
-    imageHeight: 350  
+    imageWidth: 300
+    imageHeight: 300 
     buttons:
       - name: Resume
         url: "https://drive.google.com/file/d/1dEJVtADEIb4em20iibg_RvyG56RZsRPx/view?usp=share_link"
