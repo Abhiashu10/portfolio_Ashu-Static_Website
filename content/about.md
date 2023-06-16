@@ -27,7 +27,7 @@ Ashutosh kick-started his career as a Management Trainee at Xerox Business Servi
 Driven by his thirst for knowledge and a desire to further expand his skill set, Ashutosh made the decision to pursue a master's degree in Data Science and Artificial Intelligence from Northeastern University in Boston. This academic endeavor allowed him to delve deeper into cutting-edge technologies and techniques, equipping him with a comprehensive understanding of the field. During his time in the United States, Ashutosh also embraced the country's culture and diversity, exploring various locations and experiencing new dishes. On the basis of his exceptional skill sets, Ashutosh swiftly secured the position of Data Coordinator at Northeastern University. In this role, he demonstrated his expertise by efficiently managing data collection, tracking key performance indicators (KPIs), and assessing data quality within the cloud-based assessment management tool, AEFIS. 
 
 <div align="center">
-    <img src="/about/SA5.jpeg" alt="Example Image" width="400" height="500">
+    <img src="/about/SA5.JPG" alt="Example Image" width="400" height="500">
 </div>
 
 # Ashutosh Singh: A Dynamic Professional Ready for the Next Chapter
