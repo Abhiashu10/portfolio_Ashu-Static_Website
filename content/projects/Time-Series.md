@@ -7,7 +7,7 @@ tags: ["Time Series", "ARIMA", "SARIMAX", "Hypothesis Testing"]
 showToc: false
 weight: 203
 cover:
-    image: "projects/TimeSeries/Time-Series-Analysis.jpg"
+    image: "projects/TimeSeries/Time-Series-Analysis.png"
 --- 
 ### 🔗 [GitHub repository](https://github.com/Abhiashu10/TImeSeries-ARIMA-Covid19-Forecasting/blob/0531a660de0e65cc35e01c23b4c29dd90b110cc1/Time_Series-ARIMA-%20Boston_Covid19_ForeCasting.ipynb)
 
