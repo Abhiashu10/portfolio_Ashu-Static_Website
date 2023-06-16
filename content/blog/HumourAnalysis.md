@@ -6,7 +6,7 @@ draft: false
 tags: ["Data Science", "Deep Learning", "Conference", "Volunteer"]
 weight: 101
 cover:
-    image: "/blog/HumourAbalysis/SA3.jpg"
+    image: "/blog/HumourAnalysis/SA3.jpg"
 ---
 
 # Experience
