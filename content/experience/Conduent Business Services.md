@@ -16,3 +16,5 @@ weight: 302
 - Developed robust frontend process using PL/SQL to handle census data changes & trigger events to update enrollment data, securing a 25% decrease in Adhoc requests.
 - Implemented PL/SQL procedures to automate the manual CRUD operations, thereby reducing 90% of manual work done in updating DB tables.
 
+![](/experience/Conduent/Conduent.jpg#center)
+
