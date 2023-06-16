@@ -11,7 +11,7 @@ menu:
       weight: 10
     - identifier: About
       name: About
-      url: /
+      url: /about
       weight: 15
     - identifier: projects
       name: Projects
