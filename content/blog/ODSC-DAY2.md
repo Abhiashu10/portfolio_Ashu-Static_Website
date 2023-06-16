@@ -1,6 +1,6 @@
 ---
 title: "Empowering Encounters: Insights from My Meetings with Two Biggest Data Science Influencers."
-description: "Meeting Cassie Kozyrkov - Chief Decision Scientist at Google and my fav **Ken Jee**"
+description: "Meeting Cassie Kozyrkov - Chief Decision Scientist at Google and my fav Ken Jee"
 dateString: May 2022
 draft: false
 tags: ["Influencers", "Data Science"]
