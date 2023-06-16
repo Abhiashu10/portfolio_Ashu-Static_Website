@@ -47,7 +47,7 @@ business? Higher operational class flow is Good for company.
 # Company Overview
 Delta Airlines is a global airline based in the United States. As an airline, the company provides air transportation services for both passengers and cargo. Delta offers a wide range of services, including bookings, seating, reseating, online and kiosk check-in, and flight cancellations. While simultaneously offering tools for its staff, Delta continues to be dedicated to technical improvements that assist its operations. This involves continuous innovation in customer-facing apps as well as infrastructure and technological architecture enhancements to unify and enhance access to data sources. The firm continues to fly to more than 1,000 locations in 60 nations on six continents with more than 1,100 aircraft. While it ranks second in terms of passengers, Delta Airlines is the largest airline in the world in terms of revenue. By revenue, asset value, and market capitalization, Delta Air Lines is the biggest. In areas like artificial intelligence and data science, which we will go into more depth about later, Delta is investing heavily in technology and innovation. To keep its loyal clients, Delta offers very good health insurance and ACA benefits. Together with its regional affiliates, Delta Connection, the airline offers over 5,400 daily flights to 325 locations in 52 nations on six continents.
 
-**Figure 1: - Forbes' world's biggest public airline companies by revenue (as of January 2020)**
+- **Figure 1: - Forbes' world's biggest public airline companies by revenue (as of January 2020)**
 
 ![](/blog/CompanyReport/SA1.png)
 
@@ -61,11 +61,11 @@ With five years in a row of $5 billion or more in pre-tax income from 2015 throu
 
 Operating revenue for Delta as of December 31, 2021, was 29.9 billion USD, while operating revenue as of December 31, 2019, was 47 billion USD, or roughly $17 billion less. Additionally, between 2016 and 2019, sales grew steadily. It appears that there has been a minor rebound in operating revenue when comparing the operating revenue for 2019 and 2020. Operating revenue for Delta at the end of 2019 was 47 billion USD, about $30 billion less than operating revenue for the same period in 2020, which was $17 billion. Due to lower demand brought on by the COVID-19 pandemic, our operating revenue declined $29.9 billion, or 64 percent, when compared to the year ended December 31, 2019. The gross margin for Delta in 2020 was at a level of 27%. Compared to the 73 percent industry average and the preceding two years, when Delta's gross margin maintained over 50 percent, the firm underperformed. The proportion of total operating expenses to total operating revenue rose from 86 to 172 percent. Profit margin decreased from 10% to -72% because of the operational loss and decline in total sales. When compared to industry averages, Delta underperformed in 2020 because of the effects of the global pandemic, but 2019 and 2018 ratios show that Delta outperformed the industry averages for each ratio. However, as we discussed in the section above, the company underperformed due to the Covid 19.
 
-**Figure 2: - Income Statement for 2021**
+- **Figure 2: - Income Statement for 2021**
 
 ![](/blog/CompanyReport/SA2.png)
 
-**Figure 3: - Income Statement for 2020**
+- **Figure 3: - Income Statement for 2020**
 
 ![](/blog/CompanyReport/SA3.png)
 
@@ -138,14 +138,14 @@ The management objectives are in line with the company's objectives, business st
 Delta is a publicly traded company on the NYSE. There were around 2,300 holders of record of our ordinary stock as of January 31, 2021. Since 2019, Delta's return on equity (- 146.6%) and price-earnings ratio (-2.06) have both decreased considerably from 32 percent and 7.99x, respectively. The net loss caused both ratios to turn negative. A negative dividend payout ratio of -2.1 percent is also calculated, down from 20.6 percent. Because it indicates a lengthy string of losses, Delta's negative retained earnings (-438 million from $12,454 million) might be an indication of insolvency.
 Dividends: - A quarterly dividend program was started by Delta in the September 2013 quarter, and it has since risen numerous times, most recently to $0.4025 per share in the September 2019 quarter. Due to the COVID-19 pandemic's effects, Delta halted upcoming payouts in March 2020. Dividend payments after that point will rely on Delta's operating results, financial situation, liquidity needs, future prospects, and other factors the Board of Directors deems appropriate.
 
-- Figure 4: - Stock Performance Graph
+- **Figure 4: - Stock Performance Graph**
 
 ![](/blog/CompanyReport/SA4.png)
 
 **Other Relevant Information**
 In order to better match aircraft deliveries with their network and budgetary demands over the following several years, Delta reorganized its aircraft order books with Airbus and MHJ RJ Aviation Group (maker of CRJ aircraft) in 2020. With the new delivery timeline, Delta will be able to maintain their Airbus book order while continuing to modernize and streamline their fleet. The following is a list of future aircraft purchase contracts totaling around $13.9 billion (224 aircraft in total) as of December 31, 2020.
 
-- Figure 5: - Aircraft purchase commitments by Delta
+- **Figure 5: - Aircraft purchase commitments by Delta**
 ![](/blog/CompanyReport/SA5.png)
 
 Due to the COVID-19 pandemic's effects, Delta has halted dividend payments going forward until March 2020. Dividend payments were previously prohibited under the CARES Act Payroll Support Program until September 2021; however, under the rules of the program, this restriction has been extended until March 2022. Through this scheme, Delta got $5.6 billion, of which $1.6 billion came in the form of an unsecured, low-interest loan with a 10-year term and a grant of $4 billion. Due to revenues from loan and debt issuances, support payments made under the CARES Act payroll assistance program, and other liquidity measures, Delta's liquidity on December 31, 2020, was $16.7 billion, an increase of $10.8 billion from December 31, 2019.
