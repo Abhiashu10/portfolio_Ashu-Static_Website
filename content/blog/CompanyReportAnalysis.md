@@ -18,12 +18,14 @@ The analysis looks at the business strategy, corporate objectives, market resear
 The first airline business to provide its customers a commercial and agricultural flying service was Delta. The phrase "postal service," which is used to deliver mail and provide cargo services, was first used by Delta Airlines. The Delta airline had 572 destinations in close to 65 countries in 2012. North America, South America, Europe, Asia, Africa, and Australia were among these nations. Based on 5,766 regularly scheduled flights, Delta Airlines operated almost 714 aircraft. There are many parameters which needs to be considered for a company analysis but below are the three parameters must be considered while analyzing a company:                    
 
 **1. Economy Analysis**
+
 **2. Industry Analysis**
+
 **3. Company Analysis**
 
 Let's look at some another important factor that must be considered for our analysis:                                                                                                 
 
-**1.CAGR (Compounded Annual Growth Rate)**: CAGR requires that we look at a few things: -
+**1. CAGR (Compounded Annual Growth Rate)**: CAGR requires that we look at a few things: -
 - top line, such as sales, 
 - bottom line, such as profit, 
 - or it could be EBITDA.
