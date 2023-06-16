@@ -50,7 +50,7 @@ params:
   profileMode:
     enabled: true
     title: "Ashutosh Singh"
-    subtitle: "A data enthusiast with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. I have a strong passion for **Artificial Intelligence**, **Cloud** and **Business Analytics**. I am dedicated to combining my domain expertise in **finance**, **healthcare**, and **insurance** with data science to effectively communicate insights through data-driven narratives. Prior to enrolling in the MS program, I gained valuable experience as a **Analytics Consultant** at **NTT DATA** and as a **Business Data Analyst** at **Xerox Business Services**, both renowned Fortune 500 companies based in the United States. I derive fulfillment from volunteering for environmental issues and promoting individual welfare."
+    subtitle: "A data enthusiast with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. I'm passionate about **Artificial Intelligence**, **Cloud** and **Business Analytics**. I combine my expertise in **finance**, **healthcare**, and **insurance** with **data science** to communicate insights through data-driven narratives. With experience as an **Analytics Consultant** at **NTT DATA** and a **Business Data Analyst** at **Xerox Business Services**, both Fortune 500 US based companies, I bring valuable industry knowledge. I also find fulfillment in volunteering for environmental causes and promoting individual welfare."
     imageUrl: "home/SAS.jpg"
     imageWidth: 300
     imageHeight: 300 
