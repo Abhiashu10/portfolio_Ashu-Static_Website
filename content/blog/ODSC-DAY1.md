@@ -6,7 +6,7 @@ draft: false
 tags: ["Data Science", "Deep Learning", "Conference", "Volunteer"]
 weight: 101
 cover:
-    image: "/blog/ODSC2022Day1/Deep.jpeg"
+    image: "/blog/ODSC2022Day1/Deep.png"
 ---
 
 # Experience
