@@ -3,7 +3,9 @@ title: "ASHUTOSH SINGH"
 ---
 
 
-![Example Image](/about/SA3.jpg)
+<div align="center">
+    <img src="/about/SA3.jpg" alt="Example Image" width="400" height="400">
+</div>
 
 - ABOUT
 
