@@ -4,7 +4,7 @@ description: "business strategy, corporate objectives, market research"
 dateString: May 2022
 draft: false
 tags: ["Accounting", "Finance"]
-weight: 103
+weight: 100
 cover:
     image: "/blog/CompanyReport/CAP-Cover.png"
 ---
