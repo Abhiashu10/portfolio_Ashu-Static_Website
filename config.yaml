@@ -9,10 +9,6 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: About
-      name: About
-      url: /About
-      weight: 15
     - identifier: projects
       name: Projects
       url: /projects
