@@ -18,4 +18,4 @@ Volunteering at the Open Data Science Conference and attending the event was an 
 2. Network Analysis by **Eric Ma**:- You were outstanding with presenting network analysis as you started from the basic and introduced me to a NetwrokX Api, a Python framework for researching graphs and networks.
 3. Intro to deep Learning using Keras and TensroFlow by Julia Lintern 
 
-![](/blog/ODSC2022Day1/ML.jpeg)
+![](/blog/ODSC2022Day1/ML.png)
