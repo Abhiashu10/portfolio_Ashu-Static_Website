@@ -36,7 +36,7 @@ Ashutosh's warm personality, unwavering positivity, and dedication to excellence
 
 
 <div align="center">
-    <img src="/about/SA8.png" alt="Example Image" width="550" height="500">
+    <img src="/about/SA7.png" alt="Example Image" width="550" height="500">
 </div>
 
 **If you are seeking a skilled and driven professional with a contagious zest for life, look no further than Ashutosh. Connect with him to explore possibilities for collaboration and witness firsthand the transformative impact he can bring to your organization.**
