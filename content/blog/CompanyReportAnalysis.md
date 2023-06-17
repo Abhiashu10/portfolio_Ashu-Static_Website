@@ -40,7 +40,7 @@ Let's look at some another important factor that must be considered for our anal
 
 **3. Cash Flow**: - It’s most important while analyzing a company because a company profit can be manipulated but it’s very difficult to manipulate cash flow. Thereare two types of cash flow we need to analyze: -
 
-- Operating Cash flow: - How much case is being generated from the core
+- Operating Cash flow: - How much cash is being generated from the core
 business? Higher operational class flow is Good for company.
 - Free Cash flow: - Operating cash flow-Money invest in Asset
 
