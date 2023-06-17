@@ -50,7 +50,7 @@ params:
   profileMode:
     enabled: true
     title: "Ashutosh Singh"
-    subtitle: "A data enthusiast with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. I'm passionate about **Artificial Intelligence**, **Cloud** and **Business Analytics**. A **Lean Six Sigma certified** professional who integrates their expertise in **finance**, **healthcare**, & **insurance** with **data science** to communicate insights through data-driven narratives. With experience as an **Analytics Consultant** at **NTT DATA** and **Business Data Analyst** at **Xerox Services**, I bring valuable industry knowledge. I also find fulfillment in volunteering for environmental causes and promoting individual welfare."
+    subtitle: "A data enthusiast with a passion for using data to solve real-world problems. I graduated from **Northeastern University, Boston** with a **Master of Science in Applied Machine Intelligence**. With **6 years** of Professional experience as an **Analytics Consultant** at **NTT DATA** and **Business Data Analyst** at **Xerox Services**, I bring valuable industry knowledge. A **Lean Six Sigma certified** professional who integrates their expertise in **finance**, **healthcare**, & **insurance** with **data science** to communicate insights through data-driven narratives. I'm passionate about **Artificial Intelligence**, **Cloud** and **Business Analytics**. I also find fulfillment in volunteering for environmental causes and promoting individual welfare."
     imageUrl: "home/SAS.jpg"
     imageWidth: 300
     imageHeight: 300 
