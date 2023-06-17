@@ -1,5 +1,5 @@
 ---
-title: "            About"
+title: "About#center"
 ---
 
 <div align="center">
