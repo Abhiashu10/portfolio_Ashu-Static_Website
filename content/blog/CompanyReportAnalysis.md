@@ -82,7 +82,8 @@ Since 2019, Delta has become better at paying off short-term debt. In contrast t
 
 **Cash Flow**: Operating cash flow during the December quarter 2021 was $555 million. Free cash flow was negative $441 million for the quarter with gross capital expenditures reinvested in the business of $948 million. The company’s Air Traffic Liability was $6.4 billion at December quarter-end, approximately flat compared to the end of the September quarter. Delta ended the December quarter with $14.2 billion in liquidity, including $2.9 billion in undrawn revolver capacity.
 
-**RISK FACTORS**
+**RISK FACTORS**    
+
 The risk factors may be divided into numerous categories, including, Risk Elements Related to Delta and those. Those risks can be: -
 
 **1. Risk Elements Affecting the Delta**
