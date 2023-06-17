@@ -1,13 +1,10 @@
 ---
-title: "ASHUTOSH SINGH"
+title: "<center>About</center>"
 ---
-
 
 <div align="center">
     <img src="/about/SA3.jpg" alt="Example Image" width="400" height="500">
 </div>
-
-- ABOUT
 
 Ashutosh is a highly positive and optimistic individual, whose presence uplifts and instills a sense of joy among those around him. With his adaptable nature, he effortlessly blends into any environment, making him a highly sought-after collaborator. His ability to foster a harmonious and upbeat atmosphere is consistently praised and appreciated by colleagues and peers alike. Ashutosh Singh is a driven professional with a strong background in data analysis, business intelligence, and machine learning. Born in India in 1993, Ashutosh's early exposure to his father's passion for the healthcare and pharma sectors instilled in him a deep interest in these fields. He pursued a degree in Electronics and Communication Engineering at New Delhi, India where he discovered his love for statistics, mathematics, logic, and coding.
 
