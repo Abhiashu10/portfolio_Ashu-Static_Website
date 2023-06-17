@@ -1,7 +1,6 @@
 ---
-title: "About"
+title: "<div style='text-align: center;'>About</div>"
 ---
-<p align="center">**About**</p>
 
 <div align="center">
     <img src="/about/SA3.jpg" alt="Example Image" width="400" height="500">
