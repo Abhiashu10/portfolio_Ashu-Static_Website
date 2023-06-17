@@ -1,5 +1,5 @@
----
-title: "<div style='text-align: center;'>About</div>"
+
+title: "<center>About</center>"
 ---
 
 <div align="center">
