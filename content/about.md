@@ -1,6 +1,8 @@
-
-title: "<center>About</center>"
 ---
+title: "About"
+---
+
+# <p align="center">**About**</p>
 
 <div align="center">
     <img src="/about/SA3.jpg" alt="Example Image" width="400" height="500">
@@ -12,7 +14,7 @@ Ashutosh is a highly positive and optimistic individual, whose presence uplifts 
     <img src="/about/SA1.jpg" alt="Example Image" width="400" height="500">
 </div>
 
-- PROFESSIONAL BACKGROUND
+## <p align="center">PROFESSIONAL BACKGROUND</p>
 
 Ashutosh kick-started his career as a Management Trainee at Xerox Business Services, a top tier Fortune 100 US based MNC, where his exceptional performance and dedication to his work led to two well-deserved promotions within just two years. During his tenure at Xerox Business Services, as well as his subsequent roles at Conduent and NTT DATA, he diligently cultivated his expertise in Big Data, Machine Learning, and Data Analysis while excelling as a Business Data Analyst.Ashutosh's professional journey has taken him across various domains, including the US Health & Welfare and life insurance sectors. His proficiency in SQL, stored procedures, Python, Advanced Excel, Agile methodologies, and user acceptance testing frameworks enabled him to excel in his roles and contribute to the successful implementation of critical projects. Furthermore, Ashutosh's ability to write business requirement documents, conduct root cause analysis, and mentor colleagues showcases his strong leadership and analytical skills. Ashutosh's contributions to the implementation of the Obama care act received high praise, resulting in a well-deserved promotion. Throughout his tenure at Xerox, Ashutosh's manager facilitated his training in Agile, Lean, Six Sigma, and Tableau.
 
