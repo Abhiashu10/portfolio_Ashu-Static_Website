@@ -2,7 +2,7 @@
 title: "Ashutosh Singh"
 ---
 
-# <p align="center">**About**</p>
+<p align='center'><strong>About</strong></p>
 
 <div align="center">
     <img src="/about/SA3.jpg" alt="Example Image" width="400" height="500">
