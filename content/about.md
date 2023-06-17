@@ -1,6 +1,4 @@
----
-title: "About"
----
+
 # <p align="center">**About**</p>
 
 <div align="center">
