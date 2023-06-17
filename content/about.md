@@ -1,6 +1,5 @@
 ---
-title= <div align='center'><strong>ASHUTOSH SINGH</strong></div>
-
+title: "<h1 style='text-align: center; font-size: 24px; font-weight: bold;'>About</h1>"
 ---
 <div align="center">
     <img src="/about/SA3.jpg" alt="Example Image" width="400" height="500">
