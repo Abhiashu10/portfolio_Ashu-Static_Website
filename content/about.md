@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Ashutosh Singh"
 ---
 
 # <p align="center">**About**</p>
