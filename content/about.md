@@ -1,5 +1,5 @@
 
-"<div align='center'>ASHUTOSH SINGH</div>"
+<div align='center'><strong>ASHUTOSH SINGH</strong></div>
 
 
 <div align="center">
