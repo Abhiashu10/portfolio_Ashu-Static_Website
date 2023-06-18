@@ -19,6 +19,7 @@ weight: 302
 - Implemented PL/SQL procedures to automate the manual CRUD operations, thereby reducing 90% of manual work done in updating DB tables.
 -  Demonstrated proficiency in utilizing relational database MySQL for schema design, creating tables, stored procedures, and triggers to implement data manipulation, validation, and automation processes.
 - Collaborated with underwriters and actuaries to develop pricing models, analyzing claims data and external factors, Resulted in more accurate pricing strategies and 10% improvement.
+- Conducted hypothesis testing and statistical analysis to identify trends and patterns in insurance data, resulting in valuable insights to improved underwriting decisions and reduced loss ratios.
 
 - Lean and Six Sigma Certified
 ![](/experience/Conduent/LeanSixSigma.png#center)
