@@ -13,8 +13,8 @@ weight: 300
 **Projects:** **Combined Billing Automation**, **Fraud Detection**, **Automation of Ongoing Events**, **Fraud Detection**
 
 - Utilized a random forest model trained on 100 million claims data to identify potential fraud cases and suspicious activities, resulting in a 15% improvement in fraud claim detection and saving millions of dollars.
-- Employed SQL to design & deploy monitoring queries, effectively tracking fallouts/participants impacted by incorrect elections and eligibility, improved data integrity and data consistency by 10%.
--  Streamlined data management operations through utilization of relational database MySQL, encompassing schema design, table creation (Sybase), batch creation for billing, payroll, and eligibility functionalities.
+- Employed SQL to design and deploy monitoring queries, effectively tracking fallouts and participants impacted by incorrect elections and eligibility, resulted in a 10% improvement in data integrity and consistency.
+-  Streamlined data management operations by utilizing the relational database MySQL, including schema design, table creation (Sybase), and batch creation for billing, payroll, and eligibility functionalities.
 - Conducted A/B testing on two groups for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene, T-Test, Welch, Mann-Whitney U) to evaluate & recommend future strategies.
 - Conducted workshops and stakeholder interviews to gather comprehensive business requirements, creating Business Requirement documents, use cases, and data maps to facilitate the development of new products.
 - Developed APIs to establish communication between the policy administration tool and Salesforce, enabling real-time data retrieval by the admin team, resulted in 10% claim processing acceleration & 25% reduced manual intervention.
