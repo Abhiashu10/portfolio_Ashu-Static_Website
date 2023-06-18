@@ -18,7 +18,7 @@ weight: 300
 - Conducted A/B testing on two groups for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene, T-Test, Welch, Mann-Whitney U) to evaluate & recommend future strategies.
 - Conducted workshops and stakeholder interviews to gather comprehensive business requirements, creating Business Requirement documents, use cases, and data maps to facilitate the development of new products.
 - Developed APIs to establish communication between the policy administration tool and Salesforce, enabling real-time data retrieval by the admin team, resulted in 10% claim processing acceleration & 25% reduced manual intervention.
-- Fostered 5% accelerations in yearly revenue by developing an Automated Test Environment (ATE) tool using SQL, PL/SQL and python for rate testing, resulting in significant cost savings in the millions.
+- Collaborated with underwriters and actuaries to develop pricing models, analyzing claims data and external factors, Resulted in more accurate pricing strategies and 10% improvement.
 
 ![](/experience/NTTDATA/NTT2.jpg#center)
 
