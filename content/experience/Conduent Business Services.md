@@ -15,6 +15,7 @@ weight: 302
 - Led cross-functional team for Annual Enrollment & Obama care Act project with road mapping, BRDs, use case development, test planning, Data Mapping, change management, gap analysis, and mentoring 15 new hires.
 - Developed robust frontend process using PL/SQL to handle census data changes & trigger events to update enrollment data, securing a 25% decrease in Adhoc requests.
 - Implemented PL/SQL procedures to automate the manual CRUD operations, thereby reducing 90% of manual work done in updating DB tables.
+-  Demonstrated proficiency in utilizing relational database MySQL for schema design, creating tables, stored procedures, and triggers to implement data manipulation, validation, and automation processes.
 
 ![](/experience/Conduent/LeanSixSigma.png#center)
 ![](/experience/Conduent/Conduent.jpg#center)
