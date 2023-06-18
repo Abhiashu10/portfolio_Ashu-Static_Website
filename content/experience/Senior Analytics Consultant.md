@@ -19,6 +19,8 @@ weight: 300
 - Conducted workshops and stakeholder interviews to gather comprehensive business requirements, creating Business Requirement documents, use cases, and data maps to facilitate the development of new products.
 - Developed APIs to establish communication between the policy administration tool and Salesforce, enabling real-time data retrieval by the admin team, resulted in 10% claim processing acceleration & 25% reduced manual intervention.
 - Fostered 5% accelerations in yearly revenue by developing an Automated Test Environment (ATE) tool using SQL, PL/SQL and python for rate testing, resulting in significant cost savings in the millions.
+- Conducted hypothesis testing and statistical analysis to identify trends and patterns in insurance data, resulting in valuable insights to improved underwriting decisions and reduced loss ratios.
+- Collaborated with underwriters and actuaries to develop pricing models and evaluate risk factors, analyzing historical claims data and external variables, resulting in more accurate pricing strategies and a 10% improvement in premium revenue.
 
 ![](/experience/NTTDATA/NTT2.jpg#center)
 
