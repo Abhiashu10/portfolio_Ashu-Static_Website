@@ -10,7 +10,7 @@ weight: 300
 
 ### Description
 
-**Projects:** **Combined Billing Automation**, **Fraud Detection**, **Automation of Ongoing Events**, **Fraud Detection**
+**Projects:** **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation for Salesforce**, 
 
 - Utilized a random forest model trained on 100 million claims data to identify potential fraud cases and suspicious activities, resulting in a 15% improvement in fraud claim detection and saving millions of dollars.
 - Employed SQL to design and deploy monitoring queries, effectively tracking fallouts and participants impacted by incorrect elections and eligibility, resulted in a 10% improvement in data integrity and consistency.
