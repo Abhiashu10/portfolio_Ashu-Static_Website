@@ -19,6 +19,7 @@ weight: 304
 - Collaborated with QA team to define & implement test strategies, perform GAP analysis, and establish test approaches for unit testing, integration testing, functional testing, and usability testing based on application complexity and requirements.
 - Awarded the highest performance rating in the team and “Feather in the cap” award.
 
+- Awards
 ![](/experience/XeroxBusinessServices/Award-Eagle.png#center)
 ![](/experience/XeroxBusinessServices/Award-Feather.png#center)
 ![](/experience/XeroxBusinessServices/img1.jpg#center)
