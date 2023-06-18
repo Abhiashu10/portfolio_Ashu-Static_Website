@@ -12,7 +12,7 @@ weight: 300
 
 **Projects:** **Combined Billing Automation**, **Fraud Detection**, **Automation of Ongoing Events**, **Fraud Detection**
 
-- Utilized random forest model trained on 100 million claims data, improved fraud claim detection by 15% and saved millions of dollars by identifying potential fraud cases and suspicious activities.
+- Utilized a random forest model trained on 100 million claims data to identify potential fraud cases and suspicious activities, resulting in a 15% improvement in fraud claim detection and saving millions of dollars.
 - Employed SQL to design & deploy monitoring queries, effectively tracking fallouts/participants impacted by incorrect elections and eligibility, improved data integrity and data consistency by 10%.
 -  Streamlined data management operations through utilization of relational database MySQL, encompassing schema design, table creation (Sybase), batch creation for billing, payroll, and eligibility functionalities.
 - Conducted A/B testing on two groups for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene, T-Test, Welch, Mann-Whitney U) to evaluate & recommend future strategies.
