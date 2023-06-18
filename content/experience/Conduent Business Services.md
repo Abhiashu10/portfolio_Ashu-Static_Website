@@ -1,6 +1,6 @@
 ---
 title: "Business Data Analyst"
-description: "Conduent Business Services (US Health & Welfare)"
+description: "Conduent Business Services - (US Health & Welfare)"
 dateString: June 2017 - Nov 2018
 draft: false
 tags: ["SQL", "PL/SQL", "Tableau", "Python", "Automation", "Obama Care Act", "Healthcare", "Python", "Stored Procedure", "Agile(JIRA)", "Requirement Gathering"]
