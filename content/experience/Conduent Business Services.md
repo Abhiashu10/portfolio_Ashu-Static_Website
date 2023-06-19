@@ -14,7 +14,7 @@ weight: 302
 - Supervised and maintained dashboards, reports using Tableau for Annual Enrollment and ACA projects that provided insights into key performance indicators, resulting in a 10% improvement in decision making.
 - Fostered 5% accelerations in yearly revenue by developing an Automated Test Environment (ATE) tool using SQL, PL/SQL and python for rate testing, resulting in significant cost savings in the millions.
 - Segmented Customers using k-Means and k-Prototype that have similar demand characteristics predicting customer’s likelihood of renewing policies to forecast customer lifetime value and risk of churn.
-- Led cross-functional team for Annual Enrollment & Obama care Act project with Data mapping, Statistical Analysis to find trends & patters in insurance data, BRDs, use case, change management, gap analysis, & mentoring 15 new hires.
+- Led cross-functional team for Annual Enrollment & Obama care Act project with Data mapping, Statistical analysis to find trends & patterns in insurance data, BRDs, use case, change management, gap analysis, & mentoring 15 new hires. 
 - Developed robust frontend process using PL/SQL to handle census data changes & trigger events to update enrollment data, securing a 25% decrease in Adhoc requests.
 -  Demonstrated proficiency in utilizing relational database MySQL for schema design, creating tables, stored procedures, and triggers to implement data manipulation, validation, and automation processes.
 - Investigated insurance data to identify trends and patterns through data analysis and hypothesis testing, which led to valuable insights that improved underwriting decisions and reduced loss ratios.
