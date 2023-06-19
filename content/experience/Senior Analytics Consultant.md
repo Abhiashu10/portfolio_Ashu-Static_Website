@@ -12,7 +12,7 @@ weight: 300
 
 **Projects:** **Lifesys Product Launch**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
-- Utilized a random forest model trained on 100 million claims data to identify potential fraud cases and suspicious activities, resulting in a 15% improvement in fraud claim detection and saving millions of dollars.
+- Implemented a random forest model trained on 100 million claims data to identify potential fraud cases and suspicious activities, resulting in a 15% improvement in fraud claim detection and saving millions of dollars.
 - Employed SQL to design and deploy monitoring queries, effectively tracking fallouts and participants impacted by incorrect elections and eligibility, resulted in a 10% improvement in data integrity and consistency.
 -  Streamlined data management operations by utilizing the relational database MySQL, including schema design, table creation (Sybase), and batch creation for billing, payroll, and eligibility functionalities.
 - Conducted A/B testing on two groups for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene, T-Test, Welch, Mann-Whitney U) to evaluate & recommend future strategies.
