@@ -18,7 +18,7 @@ weight: 302
 - Developed robust frontend process using PL/SQL to handle census data changes & trigger events to update enrollment data, securing a 25% decrease in Adhoc requests.
 - Implemented PL/SQL procedures to automate the manual CRUD operations, thereby reducing 30% of manual work done in updating DB tables.
 -  Demonstrated proficiency in utilizing relational database MySQL for schema design, creating tables, stored procedures, and triggers to implement data manipulation, validation, and automation processes.
-- Conducted hypothesis testing and statistical analysis to identify trends and patterns in insurance data, resulting in valuable insights to improved underwriting decisions and reduced loss ratios.
+- Investigated insurance data to identify trends and patterns through data analysis and hypothesis testing, which led to valuable insights that improved underwriting decisions and reduced loss ratios.
 
 - Lean and Six Sigma Certified
 ![](/experience/Conduent/LeanSixSigma.png#center)
