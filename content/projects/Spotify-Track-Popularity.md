@@ -19,6 +19,8 @@ The objective of this project is to develop a machine learning model that accura
 - What types of machine learning models do well on this dataset?
 - What characteristics most clearly characterize a popular song?
 
+### 🔗 [Dataset Source](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+
 ## Key Findings
 1. What is the overall trend and impact of notable events on the music industry?
 ![my notes](/projects/Spotify/OverallTrend.png)
