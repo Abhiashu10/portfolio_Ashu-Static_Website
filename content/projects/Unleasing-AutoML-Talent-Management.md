@@ -8,12 +8,12 @@ weight: 202
 cover:
     image: "/projects/Talent/BT11.png"
 ---
+### 🔗 [Github repository](https://github.com/Abhiashu10/Unleashing-AutoML-for-Talent-Management.git)
+
+![my notes](/projects/Talent/BT0.png)
 
 ## Intro
 This project is sponsored by **Georgetown Analytics and Technology** and its founder, **Ernest Smiley**. I had the opportunity to work with **real-time data provided by Georgetown Analytics and Technology**, gaining valuable insights into the field of talent management. The project **"Unleashing AutoML for Talent Management ATS and HRIS Data"** incorporates **four datasets** that are merged together for our analysis. The project aims to leverage AI technologies, specifically Automated Machine Learning (AutoML), in the field of talent management. The goal is to analyze **ATS (Applicant Tracking System) and HRIS (Human Resources Information System)** data to gain insights into hiring decisions and improve talent management outcomes.
-![my notes](/projects/Talent/BT0.png)
-
-[**Github repository**](https://github.com/Abhiashu10/Unleashing-AutoML-for-Talent-Management.git)
 
 ## Dataset
 ![my notes](/projects/Talent/BT21.png)
