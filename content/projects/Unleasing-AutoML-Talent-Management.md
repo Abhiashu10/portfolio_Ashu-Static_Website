@@ -45,28 +45,28 @@ The graph indicates that Virginia City has the highest number of job openings an
 
 2. What is the most cited reason for job changes among employees?
 - Word Cloud for the most cited reason for job changes among employees
-![my notes](/projects/Talent/B14.png)
+![my notes](/projects/Talent/Bt14.png)
 According to the word cloud, the most commonly cited reasons for changing jobs are personal reasons and job change. In addition to unsatisfactory performance, early retirement, and misconduct are also among the top reasons. The word cloud visually represents the frequency of different reasons cited for changing jobs. The most prominent reasons mentioned by individuals are personal reasons and job change. This suggests that people often switch jobs due to personal factors or to pursue new career opportunities. Apart from those, unsatisfactory performance, early retirement, and misconduct are also cited as significant reasons for changing jobs.
 
 
 3. What is the overall distribution of salaries across the entire population?
-![my notes](/projects/Talent/B13.png)
+![my notes](/projects/Talent/BT13.png)
 Approximately 73% of people have salaries ranging from $30,000 to $35,000, and this salary band has the highest number of individuals regardless of their years of experience and birth year. It seems that most people earn between $30,000 and $35,000. The second-highest percentage is 10.7% with a salary band of $25,000 to $30,000, and 10.4% earn less than $25,000. Therefore, approximately 95% of the population falls into a salary band lower than $35,000. This indicates that the majority of individuals (around 73%) earn salaries between $30,000 and $35,000. This salary band has the highest number of people, regardless of their years of experience or birth year. The second-highest percentage (10.7%) falls into the salary range of $25,000 to $30,000, and 10.4% earn less than $25,000. In total, approximately 95% of the population falls into a salary band lower than $35,000.
 
 4. Which countries have the highest job demand?
-![my notes](/projects/Talent/B18.png)
+![my notes](/projects/Talent/BT18.png)
 Among the countries, the USA stands out as having a higher frequency of hiring compared to other countries. This implies that the USA has a larger number of job openings and a more active job market compared to other countries represented in the data.
 
 5. Which cities are the most popular for job seekers?
-![my notes](/projects/Talent/B17.png)
+![my notes](/projects/Talent/BT17.png)
 The geographical data graph represents the distribution of job openings across different cities. Based on the graph, it is evident that Texas and California are the top choices in terms of the highest number of job openings. These two states have a significant concentration of job opportunities compared to other cities or states.
 
 6. What are the top 10 industries with the highest number of companies?
-![my notes](/projects/Talent/B19.png)
+![my notes](/projects/Talent/BT19.png)
 The bar chart provides information about the number of jobs in different sectors. From the chart, it is clear that the telecommunications and healthcare sectors have the highest number of jobs. These sectors are represented by the tallest bars in the chart, indicating a high frequency of job openings in those industries. This suggests that there are ample opportunities for employment within the telecommunications and healthcare sectors.
 
 ## Oversampling(SMOTE):-Handling Imbalance Dataset
-![my notes](/projects/Talent/B20.png)
+![my notes](/projects/Talent/BT20.png)
 We have a dataset with two classes: "True" and "False." Each class has a certain number of rows associated with it. The task at hand is to perform oversampling using the SMOTE (Synthetic Minority Over-sampling Technique) algorithm and observe how the number of rows changes before and after sampling.
 Before oversampling, the dataset consists of 370,977 rows labeled as "True" and 8,186 rows labeled as "False." This class imbalance indicates that the "False" class is underrepresented compared to the "True" class.
 To address this class imbalance, we apply the SMOTE algorithm, which generates synthetic samples for the minority class (in this case, the "False" class) based on the existing samples. The algorithm creates new instances by interpolating between similar instances, effectively increasing the representation of the minority class.After performing oversampling with SMOTE, the number of rows in the "True" class remains the same at 370,977, as there is no need to create additional samples for the majority class.
