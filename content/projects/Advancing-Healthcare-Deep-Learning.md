@@ -10,17 +10,17 @@ cover:
 ---
 ### 🔗 [Github repository](https://github.com/Abhiashu10/Advancing-Healthcare-PyTorch-DeepLearningModel-AutoML.git)
 
+### 🔗 [Dataset Source 1](https://wonder.cdc.gov/controller/datarequest/D176)
+
+### 🔗 [Dataset Source 2](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
+
 ## Intro
 The aim of this project is to analyze disease prevalence in the United States between 2019 and 2020 across different groups and measures. The project involves identifying patterns and trends in the data, building predictive models using Random Forest and Deep Neural Networking techniques, and exploring the factors that contribute to disease prevalence. The insights and predictions from this analysis can aid in decision-making processes related to public health interventions, resource allocation, and policy development.
 
 ## Dataset
-- **Dataset Source** 
-1. https://wonder.cdc.gov/controller/datarequest/D176
-
-2. https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb
-
 - First Dataset:
 This dataset appears to contain information related to various health measures or indicators across different states and between 2019-2020.
+
 - Second Dataset:
 This dataset seems to provide information about population demographics, specifically focusing on age groups and racial categories within different states.
 
