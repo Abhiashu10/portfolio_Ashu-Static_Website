@@ -6,7 +6,7 @@ draft: false
 tags: ["Python", "Deep Learning", "Healthcare", "ICD", "DNN", "Neural Networks"]
 weight: 203
 cover:
-    image: "/projects/Health_Deep/HD0.png"
+    image: "/projects/Health_Deep/HD0.jpeg"
 ---
 
 ## Intro
