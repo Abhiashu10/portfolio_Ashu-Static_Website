@@ -3,7 +3,7 @@ title: "Data Coordinator"
 description: "Northeastern University - AEFIS"
 dateString: June 2022 - Dec 2022
 draft: false
-tags: ["Tableau", "MS Excel", "AEFIS"]
+tags: ["Tableau", "MS Excel", "AEFIS", "VLOOKUP","VBA", "Pivot Table"]
 showToc: false
 weight: 305
 --- 

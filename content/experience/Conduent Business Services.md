@@ -3,7 +3,7 @@ title: "Business Data Analyst"
 description: "Conduent Business Services - (US Health & Welfare)"
 dateString: June 2017 - Nov 2018
 draft: false
-tags: ["SQL", "PL/SQL", "Tableau", "Python", "Automation", "Obama Care Act", "Healthcare", "Python", "Stored Procedure", "Agile(JIRA)", "Requirement Gathering"]
+tags: ["SQL", "PL/SQL", "Tableau", "Python", "Automation", "Obama Care Act", "Healthcare", "Python", "Stored Procedure", "Agile(JIRA)", "Requirement Gathering", "Relational Database Management System", "RDBMS", "Sybase", "Medicare", "Medicaid", "Data Anonymization", "data analysis", "data management", "Machine Learning", "Data science", "Documentation", "PHI", "PII", "Tableau", "Hospital Data", "EHR", "COBRA", "STD", "LTD", "BHP", "Medical", "Premium", "Billing", "Payroll", "CPT", "Claims", "Underwriting", "Agile", "BRDs", "Jira"]
 showToc: false
 weight: 302
 --- 

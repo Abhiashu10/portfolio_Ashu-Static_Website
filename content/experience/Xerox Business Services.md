@@ -3,7 +3,7 @@ title: "Business Analyst"
 description: "Xerox Business Services (US Health & Welfare)"
 dateString: April 2015 - May 2017
 draft: false
-tags: ["SQL", "Automation", "Obama Care Act", "Healthcare", "Python", "Stored Procedure", "MS Excel", "Agile(JIRA)", "Requirement Gathering", "User Acceptance Testing"]
+tags: ["SQL", "Automation", "Obama Care Act", "Healthcare", "Python", "Stored Procedure", "MS Excel", "Agile(JIRA)", "Requirement Gathering", "User Acceptance Testing", "VLOOKUP", "VBA", "Pivot Table", "HPQC", "Spftware testing", "Agile", "BRDs", "Jira"]
 showToc: false
 weight: 304
 --- 

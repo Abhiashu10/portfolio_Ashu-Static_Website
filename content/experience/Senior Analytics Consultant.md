@@ -3,14 +3,14 @@ title: "Senior Analytics Consultant"
 description: "NTT DATA (US Life Insurance)"
 dateString: Dec 2018 - Aug 2021
 draft: false
-tags: ["Python", "Linux", "Tableau", "SQL", "Salesforce", "Life Insurance", "Automation", "API"]
+tags: ["Python", "Linux", "Tableau", "SQL", "Salesforce", "Life Insurance", "Automation", "API", "Relational Database Management System", "RDBMS", "Random Forest", "A/B testing", "hypothesis testing", "Data Anonymization", "data analysis", "data management", "Machine Learning", "Data science", "Documentation", "PHI", "PII", "CPT", "Claims","Billing","Agile", "BRDs", "Jira"]
 showToc: false
 weight: 300
 --- 
 
 ### Description
 
-**Projects:** **Lifesys Product Launch**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
+**Projects:** **Lifesys Product Launch**, **data anonymization**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
 - Built system architecture from scratch using Sybase relational database, encompassing schema design, table creation, and batch processing for billing, payroll, and benefits, ensuring seamless implementation for new clients.
 - Implemented a random forest classifier trained on 1 million claims data to identify potential fraud & suspicious activities, which led to a 15% improvement in carrier’s loss ratio.
