@@ -16,9 +16,9 @@ The aim of this project is to analyze disease prevalence in the United States be
 
 ## Dataset
 1. First Dataset:
-  - This dataset appears to contain information related to various health measures or indicators across different states and between 2019-2020.
+- This dataset appears to contain information related to various health measures or indicators across different states and between 2019-2020.
 2. Second Dataset:
-   - This dataset seems to provide information about population demographics, specifically focusing on age groups and racial categories within different states.
+- This dataset seems to provide information about population demographics, specifically focusing on age groups and racial categories within different states.
 
 The project is built on two separate datasets: the first contains various estimates, chronic illness for various age groups, states, population, and health categories, whilst the second contains variables such as states, race, ten-year age groups, and population within percentage. Both datasets contain different types of information, with the first dataset focusing on health measures and the second dataset focusing on population demographics. They can potentially be used for analyzing health trends, studying population characteristics, or conducting research related to health and demographics.
 
