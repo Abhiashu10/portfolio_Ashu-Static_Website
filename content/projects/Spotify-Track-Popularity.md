@@ -47,5 +47,5 @@ The pipelines in this process handle various transformations for different types
 ## Conclusion and Future Work
 We employed 3 models (Logistic Regression, Random Forest and XGBoost) and Random Forest performed best with an accuracy of almost 97%. We discovered that the most crucial features to consider are loudness, energy, valence, acousticness, and explicitness. These features have the greatest influence on popularity. After hyperparameter tuning, we didn't see any appreciable improvements in the model's performance, which may be attributed to the large dataset's size, the lengthy training times associated with each combination, and the laptop's technical limitations. Working with this dataset was really intriguing, and in the future, we'd like to conduct our study utilizing cloud computing on a more powerful system. 
 
-## Code
-[**Code**](https://github.com/Abhiashu10/Spotify-Popularity-Analysis-Prediction/blob/6f5a238a3f198eacc0249a4afef9765fc9c26692/spotify-track-popularity-analysis-and-prediction.ipynb)
+##Code
+## [GitHub Code](https://github.com/Abhiashu10/Spotify-Popularity-Analysis-Prediction/blob/6f5a238a3f198eacc0249a4afef9765fc9c26692/spotify-track-popularity-analysis-and-prediction.ipynb)
