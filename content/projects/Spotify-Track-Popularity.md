@@ -10,6 +10,8 @@ cover:
 ---
 ### 🔗 [Github repository](https://github.com/Abhiashu10/Spotify-Popularity-Analysis-Prediction/tree/main)
 
+### 🔗 [Dataset Source](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+
 ## Intro
 The objective of this project is to develop a machine learning model that accurately predicts the popularity of songs on the Spotify platform. Spotify is a popular music streaming service with a vast library of songs from various genres and artists. The popularity of a song is a crucial factor for both artists and users, as it determines the visibility, reach, and potential success of a song. I have conducted EDA and applied supervised and unsupervised ML methods to find the most popular songs and also we string together different user-defined Python functions to make a pipeline for processing data, I have created 3 small pipelines. I used over 600,000 Spotify tracks and 20 attributes in this project. 
 
@@ -18,8 +20,6 @@ The objective of this project is to develop a machine learning model that accura
 - What are the most popular songs in the dataset?
 - What types of machine learning models do well on this dataset?
 - What characteristics most clearly characterize a popular song?
-
-### 🔗 [Dataset Source](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
 
 ## Key Findings
 1. What is the overall trend and impact of notable events on the music industry?
