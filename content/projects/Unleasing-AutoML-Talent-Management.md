@@ -10,6 +10,8 @@ cover:
 ---
 ### 🔗 [Github repository](https://github.com/Abhiashu10/Unleashing-AutoML-for-Talent-Management.git)
 
+### 🔗 [Dataset Source](https://drive.google.com/file/d/11vbcEzTfS6-PuPQ_um0hQs1FFft5o-Yg/view?usp=share_link)
+
 ![my notes](/projects/Talent/BT0.png)
 
 ## Intro
