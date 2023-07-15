@@ -1,6 +1,6 @@
 ---
 title: "Experiental Learning – Unleasing AutoML in talent management"
-description: "This project is sponsored by **Georgetown Analytics and Technology** and goal is to predict the hiring status of the candidates"
+description: "This project is sponsored by Georgetown Analytics and Technology and goal is to predict the hiring status of the candidates"
 dateString: June 2023
 draft: false
 tags: ["Python", "geopandas", "Imbalance dataset", "People Analytics", "Talent Management", "Machine learning", "Georgetown Analytics and Technology"]
