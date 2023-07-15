@@ -1,5 +1,5 @@
 ---
-title: "Experiental Learning – Unleasing AutoML in talent management"
+title: "Experiental Learning – Unleasing AutoML in talent management - GTA"
 description: "This project is sponsored by Georgetown Analytics and Technology and goal is to predict the hiring status of the candidates"
 dateString: June 2023
 draft: false
@@ -11,6 +11,7 @@ cover:
 
 ## Intro
 This project is sponsored by **Georgetown Analytics and Technology** and its founder, **Ernest Smiley**. I had the opportunity to work with **real-time data provided by Georgetown Analytics and Technology**, gaining valuable insights into the field of talent management. The project **"Unleashing AutoML for Talent Management ATS and HRIS Data"** incorporates **four datasets** that are merged together for our analysis. The project aims to leverage AI technologies, specifically Automated Machine Learning (AutoML), in the field of talent management. The goal is to analyze **ATS (Applicant Tracking System) and HRIS (Human Resources Information System)** data to gain insights into hiring decisions and improve talent management outcomes.
+![my notes](/projects/Talent/BT0.png)
 
 [**Github repository**](https://github.com/Abhiashu10/Unleashing-AutoML-for-Talent-Management.git)
 
@@ -45,7 +46,7 @@ The graph indicates that Virginia City has the highest number of job openings an
 
 2. What is the most cited reason for job changes among employees?
 - Word Cloud for the most cited reason for job changes among employees
-![my notes](/projects/Talent/Bt14.png)
+![my notes](/projects/Talent/BT14.png)
 According to the word cloud, the most commonly cited reasons for changing jobs are personal reasons and job change. In addition to unsatisfactory performance, early retirement, and misconduct are also among the top reasons. The word cloud visually represents the frequency of different reasons cited for changing jobs. The most prominent reasons mentioned by individuals are personal reasons and job change. This suggests that people often switch jobs due to personal factors or to pursue new career opportunities. Apart from those, unsatisfactory performance, early retirement, and misconduct are also cited as significant reasons for changing jobs.
 
 
