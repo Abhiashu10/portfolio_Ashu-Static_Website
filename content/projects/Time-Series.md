@@ -25,7 +25,6 @@ If the variables are non-stationary, differencing is applied to make them statio
 
 ![my notes](/projects/TimeSeries/HeatMap.png)
 
-##Code
-## [GitHub Code](https://github.com/Abhiashu10/TImeSeries-ARIMA-Covid19-Forecasting/blob/0531a660de0e65cc35e01c23b4c29dd90b110cc1/Time_Series-ARIMA-%20Boston_Covid19_ForeCasting.ipynb)
+### 🔗 [GitHub Code](https://github.com/Abhiashu10/TImeSeries-ARIMA-Covid19-Forecasting/blob/0531a660de0e65cc35e01c23b4c29dd90b110cc1/Time_Series-ARIMA-%20Boston_Covid19_ForeCasting.ipynb)
 
 

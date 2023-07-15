@@ -38,6 +38,6 @@ The comparatively higher market value of the house reflected by the provided vec
 4. XG BOost: - At the global level, we can see that bedrooms, room_type_entire_home/apt, accommodates, longitude, latitude affect the price most.
 ![my notes](/projects/Airbnb/XG.png)
 
-##Code
-## [GitHub Code](https://github.com/Abhiashu10/Airbnb-Price-Prediction-LIME-and-SHAP/blob/c92a3bf3c0d649030f38cb338d09dce4ce519798/Airbnb%20Price%20Prediction-Explainable%20AI.ipynb)
+
+### 🔗 [GitHub Code](https://github.com/Abhiashu10/Airbnb-Price-Prediction-LIME-and-SHAP/blob/c92a3bf3c0d649030f38cb338d09dce4ce519798/Airbnb%20Price%20Prediction-Explainable%20AI.ipynb)
 

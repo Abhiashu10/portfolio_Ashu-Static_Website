@@ -65,7 +65,6 @@ We can build a portfolio of 107 shares of MRNA, 179 shares of DHR, 94 shares of 
 
 The project compares the performance of the portfolio to the S&P 500 index, considering the annual returns of both.
 
-##Code
-## [GitHub Code](https://github.com/Abhiashu10/Portfolio_Management_Python_Healthcare_Stocks/blob/07be44f91fe0e9a08de298627511d52d40233811/Portfolio%20Management%20Using%20python%20for%20healthcare%20stocks.ipynb)
+### 🔗 [GitHub Code](https://github.com/Abhiashu10/Portfolio_Management_Python_Healthcare_Stocks/blob/07be44f91fe0e9a08de298627511d52d40233811/Portfolio%20Management%20Using%20python%20for%20healthcare%20stocks.ipynb)
 
 
