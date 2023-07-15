@@ -11,6 +11,8 @@ cover:
 --- 
 ### 🔗 [GitHub repository](https://github.com/Abhiashu10/Airbnb-Price-Prediction-LIME-and-SHAP/tree/main)
 
+### 🔗 [Dataset Source](http://insideairbnb.com/get-the-data/)
+
 ## Description
 We use the Inside Airbnb dataset to identify significant trends in customer interest and predict the pricing of rentals in the US and Europe. This problem is similar to a classical use case of machine learning: house price prediction. We can then provide solutions to business difficulties.
 We have used LIME and SHAP to interpret the model's predictions at the local and global levels. 
