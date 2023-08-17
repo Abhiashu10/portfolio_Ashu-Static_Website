@@ -1,5 +1,5 @@
 ---
-title: "Advance- Support_Vector_Machine_&_PCA_CreditCard_Default"
+title: "Support_Vector_Machine_&_PCA_CreditCard_Default"
 description: "From the perspective of risk management, we are trying to classify - credible or not credible clients"
 dateString: July 2023
 draft: false
