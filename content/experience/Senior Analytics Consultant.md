@@ -16,7 +16,7 @@ weight: 300
 - Implemented a random forest classifier trained on 1 million claims data to identify potential fraud & suspicious activities, which led to a 15% improvement in carrier’s loss ratio.
 - Designed and deployed SQL monitoring queries to validate migration projects, elections/eligibility, & post-prod tracking fallouts impacted by incorrect data, resulting 10% improvement in data integrity and consistency.
 - Performed A/B testing on two groups for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene, T-Test, Welch, Mann-Whitney U) to evaluate & recommend future strategies.
-- Employed data anonymization techniques to scrub and mask personal information (PHI, PII) on production data to perform statistical analysis on real-time data, ensuring privacy compliance with HIPAA rules and regulations.
+- Employed data anonymization & data augmentation techniques to scrub & mask PHI, PII production data to perform statistical analysis on real-time data, ensuring privacy compliance with HIPAA rules & regulations.
 - Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene,t-test, Welch, and Mann-Whitney U) to evaluate and recommend future strategies.
 - Conducted workshops and stakeholder interviews to gather comprehensive business requirements, creating Business Requirement documents, use cases, and data maps to facilitate the development of new products.
 - Developed APIs to establish communication between the policy administration tool and Salesforce, enabling real-time data retrieval by the admin team, resulted in 10% claim processing acceleration & 25% reduced manual intervention.
