@@ -1,5 +1,5 @@
 ---
-title: "Spotify Track Popularity – Data pipelines, Ananlysis & Prediction"
+title: "Spotify Track Popularity – Data pipelines, Analysis & Prediction"
 description: "Created three pipelines for data transformations, Features most clearly distinguish a popular song, Most Popular Song and Artists"
 dateString: October 2022
 draft: false
