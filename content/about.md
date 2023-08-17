@@ -29,7 +29,7 @@ Driven by his thirst for knowledge and a desire to further expand his skill set,
 <p align='center'><strong>A Dynamic Professional Ready for the Next Chapter</strong></p>
 
 <div align="center">
-    <img src="/about/SA6.jpeg" alt="Example Image" width="400" height="500">
+    <img src="/about/SA6.png" alt="Example Image" width="400" height="500">
 </div>
 
 Ashutosh's warm personality, unwavering positivity, and dedication to excellence make him an exceptional professional. His ability to create a harmonious and uplifting work environment fosters collaboration and productivity, garnering the admiration and respect of those he interacts with. With his broad skill set, penchant for innovation, and passion for making a positive impact, Ashutosh is a valuable asset to any team or organization. Ashutosh Singh's professional journey and his dedication to expanding his knowledge and skills in data science and artificial intelligence make him a valuable asset to any organization. With his technical expertise, analytical mindset, and commitment to excellence, Ashutosh is poised to make significant contributions in the realms of data analysis, machine learning, and business intelligence.
