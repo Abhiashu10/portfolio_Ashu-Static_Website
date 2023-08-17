@@ -1,6 +1,6 @@
 ---
-title: "Spotify Track Popularity – Analysis and Prediction"
-description: "Features most clearly distinguish a popular song, Most Popular Song and Artists"
+title: "Spotify Track Popularity – Data pipelines, Ananlysis & Prediction"
+description: "Created three pipelines for data transformations, Features most clearly distinguish a popular song, Most Popular Song and Artists"
 dateString: October 2022
 draft: false
 tags: ["Python", "Data Pipeline", "Machine Learning", "Spotify", "XG Boost"]
