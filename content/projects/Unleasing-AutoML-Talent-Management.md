@@ -4,7 +4,7 @@ description: "This project is sponsored by Georgetown Analytics and Technology a
 dateString: June 2023
 draft: false
 tags: ["Python", "geopandas", "Imbalance dataset", "People Analytics", "Talent Management", "Machine learning", "Georgetown Analytics and Technology"]
-weight: 202
+weight: 203
 cover:
     image: "/projects/Talent/BT11.png"
 ---
