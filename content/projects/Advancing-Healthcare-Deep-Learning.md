@@ -1,10 +1,10 @@
 ---
-title: "Advancing Healthcare – Disease Analysis using Deep Learning Models"
+title: "Advancing Healthcare with PyTorch – Disease Analysis using Deep Learning Models"
 description: "Disease Analysis in the United States - to gain meaningful insights from the disease data"
 dateString: June 2023
 draft: false
-tags: ["Python", "Deep Learning", "Healthcare", "ICD", "DNN", "Neural Networks"]
-weight: 203
+tags: ["Python", "Deep Learning", "Pytorch", "Healthcare", "ICD", "DNN", "Neural Networks"]
+weight: 202
 cover:
     image: "/projects/Health_Deep/HD0.jpeg"
 ---
