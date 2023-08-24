@@ -12,10 +12,10 @@ weight: 300
 
 **Projects:** **Lifesys Product Launch**, **data anonymization**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
+- Developed, fine-tuned, and audited a random forest classifier trained on 1 million claims data to identify potential fraud & suspicious activities, which led to a 15% improvement in carrier’s loss ratio.
 - Built system architecture from scratch using Sybase relational database, encompassing schema design, table creation, and batch processing for billing, payroll, and benefits, ensuring seamless implementation for new clients.
-- Implemented a random forest classifier trained on 1 million claims data to identify potential fraud & suspicious activities, which led to a 15% improvement in carrier’s loss ratio.
-- Designed and deployed SQL monitoring queries to validate migration projects, elections/eligibility, & post-prod tracking fallouts impacted by incorrect data, resulting 10% improvement in data integrity and consistency.
-- Performed A/B testing on two groups for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene, T-Test, Welch, Mann-Whitney U) to evaluate & recommend future strategies.
+- Fostered a 5% improvement in underwriting decisions by conducting data analysis & hypothesis testing on insurance data.
+- Utilized advanced data augmentation techniques (SMOTE - over sampling) to enhance dataset diversity, leading to more robust and generalizable models, reducing overfitting by 10%.
 - Employed data anonymization & data augmentation techniques to scrub & mask PHI, PII production data to perform statistical analysis on real-time data, ensuring privacy compliance with HIPAA rules & regulations.
 - Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene,t-test, Welch, and Mann-Whitney U) to evaluate and recommend future strategies.
 - Conducted workshops and stakeholder interviews to gather comprehensive business requirements, creating Business Requirement documents, use cases, and data maps to facilitate the development of new products.
