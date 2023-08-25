@@ -1,5 +1,5 @@
 ---
-title: "Data Coordinator"
+title: "AEFIS Data Analyst"
 description: "Northeastern University - AEFIS"
 dateString: June 2022 - Dec 2022
 draft: false
