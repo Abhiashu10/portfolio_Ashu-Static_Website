@@ -1,5 +1,5 @@
 ---
-title: "Senior Analytics Consultant"
+title: "Senior Data Analyst"
 description: "NTT DATA (US Life Insurance)"
 dateString: Dec 2018 - Aug 2021
 draft: false
