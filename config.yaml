@@ -56,7 +56,7 @@ params:
     imageHeight: 300 
     buttons:
       - name: Resume
-        url: "https://drive.google.com/file/d/131IEy68n8HDmAmYh9w4IOy7vOtZWvT2z/view?usp=sharing"
+        url: "https://drive.google.com/file/d/11B4gf0I6SSJZCxVrGe8awj2DaYAKjiBm/view?usp=drive_link"
 
   # List View
   hideDescriptionInList: false
