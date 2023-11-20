@@ -12,7 +12,7 @@ weight: 300
 
 **Projects:** **Lifesys Product Launch**, **data anonymization**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
-- Pioneered data-driven churn prediction strategies using Tableau, SQL & Python, reducing policy lapses by 19%,commended for elevating customer retention, fueling revenue, and product recommendations.
+- Pioneered data-driven churn prediction strategies using Tableau, SQL & Python, reducing policy lapses by 19%, commended for elevating customer retention, fueling revenue, and product recommendations.
 - Architected a streamlined data pipeline with Google Dataflow & BigQuery, transforming diverse data for dashboard creation in Tableau, analyzing KPIs related to customer segmentation, & sales forecasting.
 - Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Levene t-test, Welch, & Mann-Whitney U) to evaluate and recommend future strategies.
 - Developed, fine-tuned, & audited a random forest classifier trained on 1 million claims data (CPT) using Python to identify potential fraud & suspicious activities, which led to a 17% improvement in carrier’s loss ratio.
