@@ -3,7 +3,7 @@ title: "Senior Data Analytics Consultant"
 description: "NTT DATA (US Life Insurance)"
 dateString: Dec 2018 - Aug 2021
 draft: false
-tags: ["Python", "Linux", "Tableau", "SQL", "Salesforce", "Life Insurance", "Automation", "API", "Relational Database Management System", "RDBMS", "Random Forest", "A/B testing", "hypothesis testing", "Data Anonymization", "data analysis", "data management", "Machine Learning", "Data science", "Documentation", "PHI", "PII", "CPT", "Claims","Billing","Agile", "BRDs", "Jira"]
+tags: ["Python", "Linux", "Tableau", "SQL", "Salesforce", "Life Insurance", "Automation", "API", "Relational Database Management System", "RDBMS", "Random Forest", "A/B testing", "hypothesis testing", "Data Anonymization", "data analysis", "Alteryx", "data management", "Machine Learning", "Data science", "Documentation", "PHI", "PII", "CPT", "Claims","Billing","Agile", "BRDs", "Jira"]
 showToc: false
 weight: 300
 --- 
@@ -12,15 +12,15 @@ weight: 300
 
 **Projects:** **Lifesys Product Launch**, **data anonymization**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
-- Developed, fine-tuned, and audited a random forest classifier trained on 1 million claims data to identify potential fraud & suspicious activities, which led to a 15% improvement in carrier’s loss ratio.
-- Built system architecture from scratch using Sybase relational database, encompassing schema design, table creation, and batch processing for billing, payroll, and benefits, ensuring seamless implementation for new clients.
-- Pioneered data-driven churn prediction, reducing policy lapses by 15% across Whole Life, Annuity, and Term
-policies within a year, commended for elevating customer retention, fueling revenue, and satisfaction.
-- Fostered a 5% improvement in underwriting decisions by conducting data analysis & hypothesis testing on insurance data.
+- Pioneered data-driven churn prediction strategies using Tableau, SQL & Python, reducing policy lapses by 19%,commended for elevating customer retention, fueling revenue, and product recommendations.
+- Architected a streamlined data pipeline with Google Dataflow & BigQuery, transforming diverse data for dashboard creation in Tableau, analyzing KPIs related to customer segmentation, & sales forecasting.
+- Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Levene t-test, Welch, & Mann-Whitney U) to evaluate and recommend future strategies.
+- Developed, fine-tuned, & audited a random forest classifier trained on 1 million claims data (CPT) using Python to identify potential fraud & suspicious activities, which led to a 17% improvement in carrier’s loss ratio.
+- Optimized insurance KPIs, (e.g., Claims Processing Time, Lapse Ratio, Renewal Rate, CLV), leveraging expertise in new business, claims, commission, billing, and collaboration with actuaries, underwriters, agents, and other stakeholders.
+- Conducted stakeholder interviews to gather comprehensive business requirements, creating Business requirement documents, use cases using JIRA, and data maps to facilitate the development of new products.
 - Utilized advanced data augmentation techniques (SMOTE - over sampling) to enhance dataset diversity, leading to more robust and generalizable models, reducing overfitting by 10%.
 - Employed data anonymization & data augmentation techniques to scrub & mask PHI, PII production data to perform statistical analysis on real-time data, ensuring privacy compliance with HIPAA rules & regulations.
-- Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Shapiro, Levene,t-test, Welch, and Mann-Whitney U) to evaluate and recommend future strategies.
-- Conducted workshops and stakeholder interviews to gather comprehensive business requirements, creating Business Requirement documents, use cases, and data maps to facilitate the development of new products.
+- Fostered a 5% improvement in underwriting decisions by data analysis using Alteryx & hypothesis testing using Python
 - Developed APIs to establish communication between the policy administration tool and Salesforce, enabling real-time data retrieval by the admin team, resulted in 10% claim processing acceleration & 25% reduced manual intervention.
 
 
