@@ -14,7 +14,8 @@ weight: 304
 
 - Led cross-functional team for Annual Enrollment & Obama Care Act project with Data mapping, Statistical Analysis to find trends & patterns in insurance data and HRIS data, BRDs, use case, Root cause analysis, & mentoring 15 new hires, resulting best team award.
 - Reduced attrition and turnover rate by 10% by streamlining the merger/acquisition process with statistical analysis and predictive modeling of HRIS, HRS, Billing, and Payroll systems, resulting in a client recognition.  
-- Orchestrated the supervision and maintenance of daily reports and dashboards using Tableau for Annual Enrollment and ACA projects, driving insightful analysis of KPIs, resulting in a 10% improvement in decision-making.
+- Orchestrated the supervision of daily reports & dashboards using Tableau for Health insurance projects, driving insightful analysis of KPI, resulting in a 20% improvement in decision-making and client recognition. 
+- Utilized AWS services (Amazon Redshift, S3, Glue, Lambda) for efficient data warehousing, optimizing query performance with schema design, SQL optimization, and implementing data partitioning in Amazon Redshift
 - Developed a robust frontend process using PL/SQL for census data changes and enrollment data updates, including CRUD automation to build an Automated Test tool, securing a 25% decrease in Adhoc requests.
 - Designed and deployed SQL monitoring queries to validate migration projects, elections/eligibility, & post-prod tracking fallouts impacted by incorrect data, resulting 10% improvement in data integrity and consistency.
 - Fostered 5% accelerations in yearly revenue by developing an Automated Test Environment (ATE) tool using SQL, PL/SQL and python for rate testing, resulting in significant cost savings in the millions.
