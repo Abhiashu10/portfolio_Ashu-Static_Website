@@ -10,7 +10,7 @@ weight: 290
 
 ### Description
 
-**Projects:** **Customer Lifetime Value (CLV) **, **personalized marketing campaign **, **Marketing Mix Modeling (MMM) project**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
+**Projects:** **Customer Lifetime Value (CLV)**, **personalized marketing campaign**, **Marketing Mix Modeling (MMM) project**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
 
 - Designed A/B testing strategies using statistical methods (Mann-Whitney U test) in Azure Databricks using Python, validating campaign effectiveness and delivering data-driven insights that informed marketing strategy.
