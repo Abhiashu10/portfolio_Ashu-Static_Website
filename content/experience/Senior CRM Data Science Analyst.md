@@ -3,26 +3,29 @@ title: "Senior CRM Data Science Analyst"
 description: "Sally Beauty"
 dateString: Dec 2023 - Present
 draft: false
-tags: ["Python", "Linux", "Tableau", "SQL", "Salesforce", "Life Insurance", "Automation", "API", "Relational Database Management System", "RDBMS", "Random Forest", "A/B testing", "hypothesis testing", "Data Anonymization", "data analysis", "Alteryx", "data management", "Machine Learning", "Data science", "Documentation", "PHI", "PII", "CPT", "Claims","Billing","Agile", "BRDs", "Jira"]
+tags: ["Python", "PowerBI", "Tableau", "SQL", "Salesforce", "Databricks", "Adtech", "Marketing", "Pyspark",s "Jira"]
 showToc: false
 weight: 290
 --- 
 
 ### Description
 
-**Projects:** **Lifesys Product Launch**, **data anonymization**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
+**Projects:** **Customer Lifetime Value (CLV) **, **personalized marketing campaign **, **Marketing Mix Modeling (MMM) project**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
 
-- Architected a streamlined data pipeline with Google Dataflow & BigQuery, transforming diverse data for dashboard creation in Tableau, analyzing KPIs related to customer segmentation, & sales forecasting.
-- Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Levene t-test, Welch, & Mann-Whitney U) to evaluate and recommend future strategies.
-- Developed, fine-tuned, & audited a random forest classifier trained on 1 million claims data (CPT) using Python to identify potential fraud & suspicious activities, which led to a 17% improvement in carrier’s loss ratio.
-- Optimized insurance KPIs, (e.g., Claims Processing Time, Lapse Ratio, Renewal Rate, CLV), leveraging expertise in new business, claims, commission, billing, and collaboration with actuaries, underwriters, agents, and other stakeholders.
-- Conducted stakeholder interviews to gather comprehensive business requirements, creating Business requirement documents, use cases using JIRA, and data maps to facilitate the development of new products.
-- Utilized advanced data augmentation techniques (SMOTE - over sampling) to enhance dataset diversity, leading to more robust and generalizable models, reducing overfitting by 10%.
-- Employed data anonymization & data augmentation techniques to scrub & mask PHI, PII production data to perform statistical analysis on real-time data, ensuring privacy compliance with HIPAA rules & regulations.
-- Fostered a 5% improvement in underwriting decisions by data analysis using Alteryx & hypothesis testing using Python
-- Developed APIs to establish communication between the policy administration tool and Salesforce, enabling real-time data retrieval by the admin team, resulted in 10% claim processing acceleration & 25% reduced manual intervention.
+- Designed A/B testing strategies using statistical methods (Mann-Whitney U test) in Azure Databricks using Python, validating campaign effectiveness and delivering data-driven insights that informed marketing strategy.
+- Collaborated with Loyalty, CRM, Marketing and Merchandising teams to align customer retention strategies, improving brand loyalty and enhancing targeted communications for new, reactivated & existing customers.
+- Developed and automated ad-hoc reporting using Tableau, SQL and Alteryx, providing insights on cross-sell, up-sell, and ad tech performance, which enabled the marketing team to refine strategies and improve conversion rates by 10%.
+- Collaborated with data science and marketing teams to design and implement a personalized marketing campaign model based on Customer Lifetime Value (CLV) to identify high value customers, aimed at optimizing customer engagement and improving retention.
+- Leveraged predictive analytics to forecast future customer behavior, segmenting audiences into high, medium, and low-value groups, and optimized email content for each segment to increase conversion rates by 18%.
+- Led audience selection for targeted marketing campaigns, optimizing customer segments based on historical behavioral insights, resulting in a 15% increase in campaign engagement and 10% uplift in incremental sales.
+- Collaborated with Senior Data Scientists on a Marketing Mix Modeling (MMM) project, analyzing the effectiveness of various marketing channels and recommending optimized budget allocation to maximize ROI.
+- Spearheaded brand cannibalization analysis, identifying shifts in customer preference between competing brands, retention, and churn rates which informed pricing & promotional strategies, driving 5% reduction in customer attrition.
+- Created and transformed a coupon engine report from Tableau to Power BI, providing real-time, interactive data on coupon redemption, KPIs like ATV, UPT, AUR to enhance targeted promotions.
+- Performed extensive data preprocessing and cleaning in Azure Databricks using PySpark, transforming raw sales and transactional data into structured, high-quality datasets for use in sales forecasting models.
+- Led demographic (ethnicity, gender, age, Income) and geographic segmentation analysis to uncover key insights into customer behavior, enabling highly targeted marketing campaigns and contributing to 15% growth in regional sales.
+- Streamlined complex workflows like SMS segmentation based on categories and channel using, Alteryx, reducing report generation time by 30% and supporting cross-functional teams with faster access to key insights.
+- Managed and optimized personalized email campaigns using Salesforce Marketing Cloud, segmenting audiences based on behavioral data and customer preferences to drive engagement and conversion.
 
 
-![](/experience/NTTDATA/NTT2.jpg#center)
 
