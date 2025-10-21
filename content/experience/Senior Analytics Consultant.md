@@ -1,5 +1,5 @@
 ---
-title: "Data Scientist"
+title: "Data Scientist - MarTech"
 description: "NTT DATA (US Life Insurance)"
 dateString: Dec 2018 - Aug 2021
 draft: false
@@ -12,14 +12,12 @@ weight: 300
 
 **Projects:** **Lifesys Product Launch**, **data anonymization**, **Combined Billing Automation**, **Fraud Detection**, **Real-Time Policy Automation in Salesforce**
 
-- Created a Customer Lifetime Value model to evaluate the long-term profitability of policyholders acquired through different sales channels, agents, and offices, allowing marketing teams to optimize their budget allocation.
-- Deployed proactive retention models using predictive modelling in Databricks for annuity products, leveraging customer data & behavioral insights to identify customers at risk of non-renewal/lapse, improving policy renewal rates by 8%
-- Performed A/B testing for insurance marketing campaigns to optimize conversion rates & reduce CAC, using statistical tests (Levene t-test, Welch, & Mann-Whitney U) to evaluate and recommend future strategies.
-- Pioneered data-driven churn prediction strategies using Tableau, SQL & Python, reducing policy lapses by 12%, commended for elevating customer retention, fueling revenue, and product recommendations.
-- Developed, fine-tuned, & audited a random forest classifier trained on 1 million claims data (CPT) using Python to identify potential fraud & suspicious activities, which led to a 17% improvement in carrier’s loss ratio.
-- Optimized insurance KPIs, (e.g., Claims Processing Time, Lapse Ratio, Renewal Rate, CLV), leveraging expertise in
-new business, claims, commission, billing, and collaboration with actuaries, underwriters, agents, and other stakeholders.
-- Conducted stakeholder interviews to gather comprehensive business requirements, creating Business requirement documents, use cases using JIRA, and data maps to facilitate the development of new products.
+•	Fraud Detection & Risk Analytics: Designed and fine-tuned a Random Forest classifier on 1M claims (CPT) using Python to identify potential fraud, anomaly detection improving carrier loss ratios by 17%.
+•	Customer Lifetime Value Modeling: Created a CLV model to evaluate the long-term profitability of policyholders across sales channels, agents, & offices, enabling marketing teams to optimize budget allocation & acquisition strategy.
+•	A/B Testing & Conversion Optimization: Led A/B testing efforts across policy offer designs, and communication channels, applying statistical significance testing to evaluate impact on quote-to-policy conversion rates.
+•	Cohort Analysis: Developed cohort-based retention and revenue analysis, identifying high-value acquisition sources and improving long-term retention strategies by focusing on profitable cohorts.
+•	Insurance KPI Optimization & Stakeholder Collaboration: Optimized KPIs including Claims Processing Time, Lapse Ratio, Renewal Rate, & CLV through analytics and cross-functional collaboration, boosting efficiency and business results.
+
 
 
 

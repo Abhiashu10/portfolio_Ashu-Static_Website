@@ -12,18 +12,11 @@ weight: 304
 
 **Projects:** **Annual Enrollment(2016, 2017)**, **Obama Care Act**, **Medical Rate Setup**, **Merger and Acquisation automation for hospitals**
 
-- Led cross-functional team for Annual Enrollment & Obama Care Act project with Data mapping, Statistical Analysis to find trends & patterns in insurance data and HRIS data, BRDs, use case, Root cause analysis, & mentoring 15 new hires, resulting best team award.
-- Reduced attrition and turnover rate by 10% by streamlining the merger/acquisition process with statistical analysis and predictive modeling of HRIS, HRS, Billing, and Payroll systems, resulting in a client recognition.  
-- Orchestrated the supervision of daily reports & dashboards using Tableau for Health insurance projects, driving insightful analysis of KPI, resulting in a 20% improvement in decision-making and client recognition. 
-- Utilized AWS services (Amazon Redshift, S3, Glue, Lambda) for efficient data warehousing, optimizing query performance with schema design, SQL optimization, and implementing data partitioning in Amazon Redshift
-- Developed a robust frontend process using PL/SQL for census data changes and enrollment data updates, including CRUD automation to build an Automated Test tool, securing a 25% decrease in Adhoc requests.
-- Designed and deployed SQL monitoring queries to validate migration projects, elections/eligibility, & post-prod tracking fallouts impacted by incorrect data, resulting 10% improvement in data integrity and consistency.
-- Fostered 5% accelerations in yearly revenue by developing an Automated Test Environment (ATE) tool using SQL, PL/SQL and python for rate testing, resulting in significant cost savings in the millions.
-- Investigated insurance data to identify trends and patterns through data analysis and hypothesis testing, which led to valuable insights that improved underwriting decisions and reduced loss ratios.
-- Conducted workshops and stakeholder interviews to gather and document business requirements for new products and services and involved with testing team to create the test plan.
-- Produced 10% increases in project success through Defect management skills i.e., defect logging and reporting using JIRA and HP QC and performing Root Cause Analysis.
-- Collaborated with QA team to define & implement test strategies, perform GAP analysis, and establish test approaches for unit testing, integration testing, functional testing, and usability testing based on application complexity and requirements.
-- Awarded the highest performance rating in the team and “Feather in the cap” award.
+•	Geo & Market Basket Analysis: Conducted geo-spatial and market basket analysis to uncover store-level purchase behaviors and cross-category affinities, guiding localized promotions and personalized bundling.
+•	Forecasting & Demand Planning: Built time-series forecasting models (ARIMA, Prophet) for campaign demand prediction, helping marketing teams anticipate sales spikes and optimize inventory alignment.
+•	Customer Lifetime Value Modeling: Created a CLV model to evaluate the long-term profitability of policyholders across sales channels, agents, & offices, enabling marketing teams to optimize budget allocation & acquisition strategy.
+•	Pricing & Promotion Analytics: Partnered with merchandising teams to evaluate promotional elasticity, markdown effectiveness, and price sensitivity, delivering insights that improved promotional ROI by 8%.
+•	Data Governance & Campaign QA: Instituted data quality checks and campaign QA processes (ETL validation, audience integrity checks), ensuring accuracy and consistency of insights used for strategic decisions.
 
 - Lean and Six Sigma Certified
 ![](/experience/Conduent/LeanSixSigma.png#center)
