@@ -16,6 +16,7 @@ weight: 290
 •	A/B Testing / Campaign Measurement: Designed A/B testing strategies using statistical method (Mann-Whitney test) in Azure Databricks to measure campaign effectiveness across channels, improving engagement, & incremental revenue.
 •	Causal Inference & Statistical Analysis: Leveraged causal inference on campaigns to identify true drivers of engagement and conversion, optimizing marketing strategies and boosting incremental revenue.
 •	CLV / Segmentation for Personalization: Implemented Propensity Score Matching personalized model using predictive modelling, segmenting customers into high, medium, & low tiers, resulting 12% lift in conversion rates
+•	CLV / Audience Targeting: Built audience segmentation predictive model (CLV) and Propensity Score Matching, identifying high, low & medium value customer tiers to improve targeting precision and campaign ROI by 12%.
 •	RFM & Clustering (Segmentation Analytics): Applied RFM analysis, K-Means clustering with PCA on customer data to segment and rank users into deciles, enabling tiered personalization that increased campaign ROI by avg 6.5%.
 •	Data Engineering & ETL (PySpark, Big Data): Built & optimized ETL pipelines in PySpark for 17M+ customers and 70M+ transactions (1TB), transforming raw data into structured datasets to support forecasting and analytics.
 •	Marketing Mix Modeling (MMM): Collaborated with senior data scientists on multi-channel MMM analysis, measuring marketing effectiveness and recommending optimized budget allocation to maximize ROI.
